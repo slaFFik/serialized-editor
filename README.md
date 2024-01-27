@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/deliciousbrains/serialized-editor.svg?branch=master)](https://travis-ci.org/deliciousbrains/serialized-editor)
-
 # Serialized Editor
 
 A Vue.js component for editing data that has been [serialized in PHP](http://php.net/manual/en/function.serialize.php).
@@ -11,9 +9,7 @@ A Vue.js component for editing data that has been [serialized in PHP](http://php
 ## Install
 
 ```bash
-npm install @deliciousbrains/serialized-editor
-// or
-yarn add @deliciousbrains/serialized-editor
+npm install @slaffik/serialized-editor
 ```
 
 ## Usage
@@ -26,7 +22,7 @@ The package comes in two parts
 First you need to import the components: 
 
 ```javascript
-import { SerializedParser, SerializedEditor } from '@deliciousbrains/serialized-editor';
+import { SerializedParser, SerializedEditor } from '@slaffik/serialized-editor';
 ```
 
 Next you need to convert the serialized data into JSON:

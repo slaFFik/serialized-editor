@@ -1,13 +1,13 @@
 {
-  "name": "@deliciousbrains/serialized-editor",
+  "name": "@slaffik/serialized-editor",
   "description": "A Vue.js component for editing data that has been serialized in PHP",
   "version": "0.1.5",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deliciousbrains/serialized-editor.git"
+    "url": "git+https://github.com/slaffik/serialized-editor.git"
   },
   "bugs": {
-    "url": "https://github.com/deliciousbrains/serialized-editor/issues"
+    "url": "https://github.com/slaffik/serialized-editor/issues"
   },
   "keywords": [
     "vue",
@@ -15,7 +15,7 @@
     "serialized",
     "editor"
   ],
-  "author": "Gilbert Pellegrom <gilbert@pellegrom.me>",
+  "author": "Slava Abakumov",
   "license": "MIT",
   "main": "dist/serialized-editor.js",
   "module": "src/index.js",
